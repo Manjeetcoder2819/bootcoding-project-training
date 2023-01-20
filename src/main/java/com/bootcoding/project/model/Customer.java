@@ -2,7 +2,7 @@ package com.bootcoding.project.model;
 
 public class Customer {
     private String name;
-    private String deliveryaddress;
+    private String deliveryAddress;
     private String emailId;
     private long phoneNumber;
     private String city;
@@ -15,12 +15,12 @@ public class Customer {
         this.name = name;
     }
 
-    public String getDeliveryaddress() {
-        return deliveryaddress;
+    public String getDeliveryAddress() {
+        return deliveryAddress;
     }
 
-    public void setDeliveryaddress(String deliveryaddress) {
-        this.deliveryaddress = deliveryaddress;
+    public void setDeliveryAddress(String deliveryAddress) {
+        this.deliveryAddress = deliveryAddress;
     }
 
     public String getEmailId() {
