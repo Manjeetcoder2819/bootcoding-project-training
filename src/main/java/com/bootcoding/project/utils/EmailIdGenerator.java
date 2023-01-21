@@ -17,6 +17,6 @@ public class EmailIdGenerator {
     }
 
     public static void main(String[] args) {
-        EmailIdGenerator.getEmailId("shruti");
+        EmailIdGenerator.getEmailId("manjit");
     }
 }

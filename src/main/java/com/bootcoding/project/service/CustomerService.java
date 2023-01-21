@@ -13,10 +13,7 @@ public class CustomerService {
         customer.setEmailId(EmailIdGenerator.getEmailId(customer.getName()));
         customer.setDeliveryAddress(AddressGenerator.getAddress());
         customer.setPhoneNumber(PhoneNumberGenerator.getPhoneNumber());
-//        customer.setQuantity(QuantityGenerator.getQuantity);
         return customer;
-
-
     }
     public void print(Customer customer){
         System.out.println("Customer Name:"+customer.getName());
