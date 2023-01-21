@@ -6,7 +6,7 @@ food ordering business and build project using Core Java,  Github, Intellij on a
 - Register New Vendor
 - Store Customer and Vendor Data into Java Collections
 - Take Orders and Store them into In memory
-## What you'll learn or get hands-on
+## What we have learn or got hands-on
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,java,maven,intellij" />
