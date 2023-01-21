@@ -27,7 +27,8 @@ public class CustomerService {
     }
     public static void main(String[]args){
         CustomerService cs=new CustomerService();
-        Customer customer=cs.createCustomer();
-        cs.print(customer);
+        for(int i=0; i<50;i++){
+            Customer customer= cs.createCustomer();
+            cs.print(customer);
     }
-}
+}}
